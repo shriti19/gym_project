@@ -1,2 +1,2 @@
 # gym_project
-full stack
+full stack app
